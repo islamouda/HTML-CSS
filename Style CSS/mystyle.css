@@ -1,0 +1,23 @@
+#h1test {
+    color: darkgreen;
+    background-color: blanchedalmond;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
+
+.aliaa {
+    background-color: rgb(16, 150, 72);
+    color: rgb(8, 7, 71);
+}
+
+#islam {
+    font-family: Monospace;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
